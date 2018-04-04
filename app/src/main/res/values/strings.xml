@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Food Allergy Diary</string>
+
+    <string name="initial_title">Food Allergy Diary</string>
+    <string name="initial_subtitle">Login</string>
+    <string name="initial_tagline">Remember the food you love</string>
+    <string name="initial_hello">Welcome!</string>
+    <string name="initial_username">username?</string>
+    <string name="initial_password">password?</string>
+    <string name="initial_button">submit</string>
+    <string name="initial_register">Create account</string>
+
+
+    <string name="signup_title">Create An Account</string>
+    <string name="signup_subtitle">Sign Up</string>
+    <string name="signup_tagline">Keep track of the dishes you find\n and what you love about them</string>
+    <string name="signup_name">what\'s your name?</string>
+    <string name="signup_email">what\'s your email?</string>
+    <string name="signup_username">choose a username</string>
+    <string name="signup_password">choose a password</string>
+    <string name="signup_toinitial">back</string>
+
+    <string name="review_title">Write a Meal Review</string>
+    <string name="review_subtitle">Save Entry</string>
+    <string name="review_tagline">Write what you loved, what you didn\'t\nand everything in between! </string>
+    <string name="review_restaurant">which restaurant?</string>
+    <string name="review_description">what were your thoughts?</string>
+    <string name="review_toinitial">back</string>
+
+</resources>
